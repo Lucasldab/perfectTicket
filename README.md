@@ -1,4 +1,4 @@
-# perfectTicket
+# Perfect Ticket
 Objetivo: Localizar as necessidades dos clientes e informar facilitando as vendas e liberando o tempo dos vendedores para contato com os potênciais clientes(leads)
 
 Funcionalidades:
