@@ -15,7 +15,7 @@ Integrantes:
 
 Prototipação das telas do sistema (baixa fidelidade):
 
-![alt text](https://github.com/Nedros/perfectTicket/blob/main/imagens/wireframe/Clientes.png?raw=true)
-![alt text](https://github.com/Nedros/perfectTicket/blob/main/imagens/wireframe/Dados%20do%20cliente.png?raw=true)
-![alt text](https://github.com/Nedros/perfectTicket/blob/main/imagens/wireframe/Login.png?raw=true)
-![alt text](https://github.com/Nedros/perfectTicket/blob/main/imagens/wireframe/Cadastro.png?raw=true)
+![alt text](https://github.com/Nedros/perfectTicket/blob/master/imagens/wireframe/Clientes.png?raw=true)
+![alt text](https://github.com/Nedros/perfectTicket/blob/master/imagens/wireframe/Dados%20do%20cliente.png?raw=true)
+![alt text](https://github.com/Nedros/perfectTicket/blob/master/imagens/wireframe/Login.png?raw=true)
+![alt text](https://github.com/Nedros/perfectTicket/blob/master/imagens/wireframe/Cadastro.png?raw=true)
